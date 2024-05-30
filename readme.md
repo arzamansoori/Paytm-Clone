@@ -4,5 +4,5 @@ Hi, I am *Arza Mansoori*.<br>
 *I made this Paytm Clone using TAILWIND CSS. Showcasing my skills on Taliwind CSS using this project.*
 
 
-[*LiveLink (Netlify)*](https://paytmclonetailwindcss.netlify.app/ "PaytmClone")
+[*Live link*](https://arzamansoori.github.io/Paytm-Clone/ "PaytmClone")
 
